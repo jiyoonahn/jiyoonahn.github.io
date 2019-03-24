@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Jiyoon Ahn</title>
+    <title>Authors on JiYoon Ahn</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Jiyoon Ahn</description>
+    <description>Recent content in Authors on JiYoon Ahn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -20,20 +20,20 @@
     </item>
     
     <item>
+      <title>JiYoon Ahn</title>
+      <link>/authors/jiyoon-ahn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jiyoon-ahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MS Nixon</title>
       <link>/authors/ms-nixon/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
       
       <guid>/authors/ms-nixon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
